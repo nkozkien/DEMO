@@ -2,7 +2,7 @@
     "name":"DevSage Adbblocker",
     "version" :"1.0",
     "description":"test a",
-    "premissions":["webRequest","webRequestBlocking","<all_urls"],
+    "permissions":["webRequest","webRequestBlocking","<all_urls>","tabs"],
     "background":{
         "scripts":["background.js"]
     },
