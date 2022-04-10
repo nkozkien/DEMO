@@ -1,5 +1,5 @@
 {
-    "name":"DevSage Adbblocker",
+    "name":"DK_Adbblocker",
     "version" :"1.0",
     "description":"test a",
     "permissions":["webRequest","webRequestBlocking","<all_urls>","tabs"],
